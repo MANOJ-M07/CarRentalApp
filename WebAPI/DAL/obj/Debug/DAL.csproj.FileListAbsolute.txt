@@ -1,0 +1,12 @@
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\bin\Debug\DAL.dll.config
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\bin\Debug\DAL.dll
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\bin\Debug\DAL.pdb
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\bin\Debug\EntityFramework.dll
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\bin\Debug\EntityFramework.xml
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\obj\Debug\DAL.dll
+D:\ProjectRll-testingWebAPI\WebAPI\DAL\obj\Debug\DAL.pdb

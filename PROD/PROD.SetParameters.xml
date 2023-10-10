@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site" />
+  <setParameter name="CarRentalEntities-Web.config Connection String" value="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=LAPTOP-DLI2FL88;initial catalog=CarRentalEntities;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
+</parameters>
